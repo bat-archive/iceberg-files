@@ -4,4 +4,4 @@ Top-secret files, records, and schematics related to Oswald Cobblepot’s Iceber
 - Surveillance reports from Iceberg Lounge
 - Schematics of hidden tunnels and warehouses
 - Intelligence on Gotham’s criminal network
-- Newspaper clippings and incident logs
+
