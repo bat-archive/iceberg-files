@@ -1,1 +1,1 @@
-[Batman log]: “The Penguin leaves trails in ice. You’re almost there. If you can see through the fog, you’ll find me.”
+Top-secret files, records, and schematics related to Oswald Cobblepot’s Iceberg Lounge operations and criminal activities in Gotham City
